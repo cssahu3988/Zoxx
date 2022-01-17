@@ -1,0 +1,3 @@
+include ':BottomNavigation'
+include ':app'
+rootProject.name = "Zoxx"

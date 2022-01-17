@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976710701529",
+    "project_id": "rityan-32548",
+    "storage_bucket": "rityan-32548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976710701529:android:58ce3a731496809f1d49c8",
+        "android_client_info": {
+          "package_name": "com.example.rityan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976710701529-tl9rdsag4hue0auh1ovqsqmfp9vl8rja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rityan",
+            "certificate_hash": "32c0d7947df016919baff8bfcbc38a74fa9cc31d"
+          }
+        },
+        {
+          "client_id": "976710701529-khidlm7gbki2828nb77cvde7qer90ver.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6uR5HG_YLavJCGqvvoVTIcIoN9wGiDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976710701529-khidlm7gbki2828nb77cvde7qer90ver.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
